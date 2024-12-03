@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="editTextHint">#717171</color>
+    <color name="nav_bar_background">#D9D9D9</color>
+    <color name="nav_item_color">#7E7E7E</color>
+    <color name="nav_item_color_selected">#000000</color>
+    <color name="primaryColor">#FFFFFF</color>
+    <color name="primaryDarkColor">#000000</color>
+    <color name="accentColor">#FF9800</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="border_color">#FFFFFF</color>
+    <color name="secondaryColor">#FF03DAC5</color>
+</resources>

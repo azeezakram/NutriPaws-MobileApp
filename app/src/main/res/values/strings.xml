@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">NutriPaws</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cPassword">Confirm password</string>
+    <string name="address">Address</string>
+    <string name="payment">Payment method</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="signUp">Sign Up</string>
+    <string name="sigIn">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="educational">Educational</string>
+    <string name="profile">Profile</string>
+    <string name="update">Update</string>
+    <string name="back">Back</string>
+    <string name="brand">Brand: </string>
+    <string name="type">Type: </string>
+    <string name="age">Age: </string>
+
+    <string-array name="payment_methods">
+        <item>Card</item>
+        <item>Cash</item>
+    </string-array>
+
+
+    <string name="select_brand">Select Brand</string>
+    <string name="select_type">Select Type</string>
+    <string name="select_age">Select Age</string>
+
+    <string name="product_image">Product image</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="get_started">Get started</string>
+    <string name="dont_t_have_an_account">Dont\'t have an account</string>
+    <string name="total_lkr_0_00">Total: LKR 0.00</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="url">URL</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="nutripaws">NutriPaws</string>
+    <string name="slonge">Providing the best nutrition for your furry friend</string>
+    <string name="buy_nutrition">Buy Nutritions</string>
+    <string name="manage_cart">Manage Cart</string>
+    <string name="educational_contents">Educational Contents</string>
+
+    <string-array name="content_types">
+        <item>All</item>
+        <item>Article</item>
+        <item>Guide</item>
+        <item>Video</item>
+    </string-array>
+
+
+</resources>
